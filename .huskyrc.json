@@ -1,5 +1,5 @@
 {
-    "hooks": {
-      "pre-commit": "echo 'teste'"
-    }
+  "hooks": {
+    "pre-commit": "lint-staged"
   }
+}
