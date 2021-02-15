@@ -17,6 +17,7 @@
   },
   "rules": {
     "@typescript-eslint/no-explicit-any": "off",
+    "no-restricted-syntax": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
     "@typescript-eslint/camelcase": "off",
